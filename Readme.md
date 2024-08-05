@@ -40,9 +40,6 @@ This repository contains a collection of R scripts for processing and analyzing 
 - These scripts are designed to be modular, so you can run each analysis independently.
 - Make sure to read through the comments in each script for detailed explanations of each step.
 
-## Contributing
-
-If you have suggestions or improvements, feel free to create a pull request or open an issue.
 
 ## License
 
